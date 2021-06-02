@@ -1,0 +1,35 @@
+h1{
+    color:black;
+}
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    color: chartreuse;
+}
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.footer{
+    display: flex;
+justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+
+}
+body{
+    background-color: aquamarine;
+}
+
